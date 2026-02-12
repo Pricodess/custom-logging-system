@@ -1,5 +1,4 @@
 # Custom Logging System – Spring Boot
-
 ![Java](https://img.shields.io/badge/Java-21-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
 ![Maven](https://img.shields.io/badge/Maven-Build-orange)
