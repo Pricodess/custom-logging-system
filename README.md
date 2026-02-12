@@ -204,7 +204,7 @@ The file is created automatically when the first log is added.
 Screenshots:
 
  <p align="center">
-  <img src="screenshots/POST-log.png" width="650"/>
+  <img src="SS/POST-log.png" width="650"/>
   <br/>
   <em>POST /logs request example</em>
  </p>
@@ -212,7 +212,7 @@ Screenshots:
 
 
 <p align="center">
-  <img src="screenshots/GET-log.png" width="650"/>
+  <img src="SS/GET-log.png" width="650"/>
   <br/>
   <em>GET /logs request example</em>
  </p>
@@ -221,7 +221,7 @@ Screenshots:
 
 
 <p align="center">
-  <img src="screenshots/LOG-file.png" width="650"/>
+  <img src="SS/LOG-file.png" width="650"/>
   <br/>
   <em>Log File  example</em>
  </p>
