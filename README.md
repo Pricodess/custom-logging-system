@@ -1,5 +1,15 @@
 # Custom Logging System – Spring Boot
 
+# Custom Logging System – Spring Boot
+
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+![Maven](https://img.shields.io/badge/Maven-Build-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+A lightweight backend logging service...
+
+
 A 
 lightweight backend logging service built with Spring Boot to understand how logging works internally instead of relying entirely on third-party frameworks.
 
